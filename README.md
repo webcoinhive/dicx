@@ -3,5 +3,7 @@ Generador de diccionarios a partir de keywords escrito en Python, crea todas las
 
 Está basado en la idea de CUPP, pero tiene genera más combinaciones.
 
+
 @KvotheTankian
+
 forum.xen0x.org
